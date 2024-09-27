@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
 body {
 	font-size: 12px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -209,4 +211,14 @@ a img {
 #footer a:hover {
 	color: #000000;
 	text-decoration: none;
+}
+
+code {
+	font-family: 'Fira Code', monospace;
+    color: #FFFFFF;
+    background-color: #2e2b2b;
+    padding: 2px 4px;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	border-radius: 25ox;
 }
