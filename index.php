@@ -13,7 +13,7 @@
 					<p>My name is Eliza, I'm 19 years old trans woman from Poland. I love girls.</p>
 					<p>This is my personal website. My portfolio you can find at <a href="https://sech1p.art">sech1p.art</a></p>
 					<br>
-					<p>I'm do many things, if you want to know about some of them, maybe you want check <a href="about.html">About me</a> page?</p>
+					<p>I'm do many things, if you want to know about some of them, maybe you want check <a href="about.php">About me</a> page?</p>
 					<br>
 					<p>You can also find my blog at <a href="blog.php">Blog</a> page. Enjoy and have fun ^^</p>
 					<br>
