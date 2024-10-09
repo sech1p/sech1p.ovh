@@ -18,6 +18,8 @@
 					<li><a href="https://t.me/sech1p">Telegram</a></li>
 					<li><b>Friends</b></li>
 				    <li><a href="https://ponymare.ovh"><img src="https://ponymare.ovh/res/trixie.gif" title="my cute gf emilia :3"></a></li>
+					<li><a href="https://anemonik.neocities.org"><img src="resources/anemonek.png" title="Anemonik"></a></li>
+					<li><a href="https://karibooru.love"><img src="resources/kariga.png" title="Karibooru"></a></li>
 					<li><b>My Button</b></li>
 					<li><img src="resources/sech1p.gif" /></li>
         			<li><b>Buttons (88x31)</b></li>
