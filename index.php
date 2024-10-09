@@ -17,7 +17,7 @@
 					<br>
 					<p>You can also find my blog at <a href="blog.php">Blog</a> page. Enjoy and have fun ^^</p>
 					<br>
-					<p><i>Last update: 2024-09-27 18:08 (GMT+2)</i></p>
+					<p><i>Last update: 2024-10-09 17:03 (GMT+2)</i></p>
     		    </article>
 	    	</div>
 		    <?php include "templates/footer.php"; ?>
