@@ -55,6 +55,7 @@ if (isset($_GET["id"])) {
     	$art = "articles/". $article;
     	$file_content = file_get_contents($art);
 		$parsed_article = parseArticle($file_content);
+		$article_id = str_replace("article", "", $article);
 		$article_id = str_replace(".txt", "", $article);
 		$article_list .= "<span><a href='blog.php?id=" . $article_id . "'>" . $parsed_article["Title"] . "</a></span><br>";
 	}
