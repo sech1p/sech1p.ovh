@@ -1,6 +1,7 @@
 <header id="logo">sech1p's corner</header>
 <nav id="links">
 	<ul>
+		<li><a href="index.php">Home</a></li>
 		<li><a href="blog.php">Blog</a></li>
 		<li><a href="https://elizaemiliaa.wordpress.com">Blog (WordPress)</a></li>
 		<li><a href="about.php">About me</a></li>
