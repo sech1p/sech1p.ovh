@@ -5,6 +5,7 @@
 		<li><a href="blog.php">Blog</a></li>
 		<li><a href="https://elizaemiliaa.wordpress.com">Blog (WordPress)</a></li>
 		<li><a href="about.php">About me</a></li>
+		<li><a href="contact.php">Contact & Social Medias</a></li>
 	</ul>
 </nav>
 <div id="menu">
