@@ -15,6 +15,7 @@
                         <li>Discord - sech1p#0000</li>
                         <li>Telegram - <a href="https://t.me/sech1p">sech1p</a></li>
                         <li>Signal - elizaemilia.47</li>
+                        <li>Matrix - <code>@sech1p@mozilla.org</code></li>
                         <li>XMPP - <code>sech1p at disroot dot org</code></li>
                         <li>E-mail - <code>sech1p at disroot dot org</code></li>
                     </ul>
