@@ -20,6 +20,14 @@
                         <li>E-mail - <code>sech1p at disroot dot org</code></li>
                     </ul>
                     <br>
+                    <h2>Social Medias</h2>
+                    <ul>
+                        <li><a href="https://www.reddit.com/user/sech1p">Reddit</a></li>
+                        <li><a href="https://sech1p.bsky.social">Bluesky</a></li>
+                        <li>Twitter? nope</li>
+                        <li><a href="https://c.im/@sech1p">Mastodon</a></li>
+                    </ul>
+                    <br>
                     <i>More coming soon...</i>
     		    </article>
 	    	</div>
