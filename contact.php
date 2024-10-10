@@ -45,8 +45,6 @@
                     <ul>
                         <li><a href="https://myanimelist.net/profile/sech1p">MyAnimeList</a></li>
                     </ul>
-                    <br>
-                    <i>More coming soon...</i>
     		    </article>
 	    	</div>
 		    <?php include "templates/footer.php"; ?>
