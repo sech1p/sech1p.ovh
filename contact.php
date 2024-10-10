@@ -28,6 +28,12 @@
                         <li><a href="https://c.im/@sech1p">Mastodon</a></li>
                     </ul>
                     <br>
+                    <h3>Art/Graphics</h3>
+                    <ul>
+                        <li><a href="https://sech1p.deviantart.com">DeviantArt</a></li>
+                        <li><a href="https://www.furaffinity.net/user/sech1p">Fur Affinity</a></li>
+                    </ul>
+                    <br>
                     <i>More coming soon...</i>
     		    </article>
 	    	</div>
