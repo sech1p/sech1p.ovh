@@ -34,6 +34,13 @@
                         <li><a href="https://www.furaffinity.net/user/sech1p">Fur Affinity</a></li>
                     </ul>
                     <br>
+                    <h3>Gaming</h3>
+                    <ul>
+                        <li><a href="https://psnprofiles.com/sech1p_">PlayStation</a></li>
+                        <li><a href="https://www.xboxgamertag.com/search/sech1p">Xbox</a></li>
+                        <li><a href="https://osu.ppy.sh/users/13861098">osu!</a></li>
+                    </ul>
+                    <br>
                     <i>More coming soon...</i>
     		    </article>
 	    	</div>
