@@ -41,6 +41,11 @@
                         <li><a href="https://osu.ppy.sh/users/13861098">osu!</a></li>
                     </ul>
                     <br>
+                    <h3>Anime</h3>
+                    <ul>
+                        <li><a href="https://myanimelist.net/profile/sech1p">MyAnimeList</a></li>
+                    </ul>
+                    <br>
                     <i>More coming soon...</i>
     		    </article>
 	    	</div>
