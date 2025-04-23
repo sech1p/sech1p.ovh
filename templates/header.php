@@ -2,8 +2,7 @@
 <nav id="links">
 	<ul>
 		<li><a href="index.php">Home</a></li>
-		<li><a href="https://elizaemiliaa.wordpress.com">Blog (WordPress)</a></li>
-		<li><a href="https://sech1p.dreamwidth.org">Blog (Dreamwidth)</a></li>
+		<li><a href="#">Blog (coming soon!)</a></li>
 		<li><a href="about.php">About me</a></li>
 		<li><a href="machines.php">Machines</a></li>
 		<li><a href="contact.php">Contact & Social Medias</a></li>
@@ -20,7 +19,6 @@
 					<li><a href="https://t.me/sech1p">Telegram</a></li>
 					<li><b>Friends</b></li>
 				    <li><a href="https://ponymare.ovh"><img src="https://ponymare.ovh/res/trixie.gif" title="my cute gf emilia :3"></a></li>
-					<li><a href="https://anemonik.neocities.org"><img src="https://anemonik.neocities.org/img/anemonek.png" title="Anemonik"></a></li>
 					<li><a href="https://karibooru.love"><img src="https://karibooru.love/88x31.png" title="Karibooru"></a></li>
 					<li><b>My Button</b></li>
 					<li><img src="resources/sech1p.gif" /></li>
