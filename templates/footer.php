@@ -1,1 +1,1 @@
-<footer id="footer">&copy; 2024 Eliza Emilia "sech1p" Semeniuk. Licensed under Apache-2.0 license.</footer>
+<footer id="footer">&copy; 2025 Eliza Emilia "sech1p" Semeniuk. Licensed under Apache-2.0 license.</footer>
