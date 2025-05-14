@@ -28,6 +28,9 @@
 						Skye (https://skyeweeb.weebly.com)
     					Vidapon (https://vidapon.net)
 						capstasher (https://capstasher.neocities.org)
+						88x31 (https://88x31.nl)
+						The Cyber Vanguard (https://cyber.dabamos.de)
+						exo (https://exo.pet)
 					-->
 	        		<li><img src="resources/im_high.gif" /></li>
 		        	<li><img src="resources/transgender.gif" /></li>
@@ -35,6 +38,16 @@
 		        	<li><img src="resources/any_browser.gif" /></li>
 					<li><img src="resources/quake.gif" /></li>
     			    <li><img src="resources/anime_gay.gif" /></li>
+					<li><img src="resources/absolute_ftp.gif" /></li>
+					<li><img src="resources/acab2.gif" /></li>
+					<li><img src="resources/amiga_friendly.gif" /></li>
+					<li><img src="resources/anarchy1.gif" /></li>
+					<li><img src="resources/atarilogo.gif" /></li>
+					<li><img src="resources/friendship.gif" /></li>
+					<li><img src="resources/n3ds.png" /></li>
+					<li><img src="resources/touhou.gif" /></li>
+					<li><img src="resources/w98.gif" /></li>
+					<li><img src="resources/y2001.gif" /></li>
 		    	</ul>
 		    </nav>
 		</div>
