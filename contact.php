@@ -16,7 +16,12 @@
                         <li>Telegram - <a href="https://t.me/sech1p">sech1p</a></li>
                         <li>Matrix - <code>@sech1p@mozilla.org</code></li>
                         <li>Jabber/XMPP - <code>sech1p&commat;disroot.org</code></li>
-                        <li>E-mail - <code>sech1p at icloud dot com</code></li>
+                        <li>
+                            E-mail - <code>sech1p at icloud dot com</code>
+                            <a href="/public.asc">
+                                <i class="heroicons-key"></i>
+                            </a>
+                        </li>
                     </ul>
     		    </article>
 	    	</div>
