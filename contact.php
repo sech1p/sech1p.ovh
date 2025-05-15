@@ -18,9 +18,7 @@
                         <li>Jabber/XMPP - <code>sech1p&commat;disroot.org</code></li>
                         <li>
                             E-mail - <code>sech1p at icloud dot com</code>
-                            <a href="/public.asc">
-                                <i class="heroicon-key"></i>
-                            </a>
+                            <a href="/public.asc">🔑</a>
                         </li>
                     </ul>
     		    </article>
