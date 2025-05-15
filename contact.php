@@ -14,7 +14,6 @@
                     <ul>
                         <li>Discord - sech1p#0000</li>
                         <li>Telegram - <a href="https://t.me/sech1p">sech1p</a></li>
-                        <li>Signal - elizaemilia.43</li>
                         <li>Matrix - <code>@sech1p@mozilla.org</code></li>
                         <li>E-mail - <code>sech1p at icloud dot com</code></li>
                     </ul>
