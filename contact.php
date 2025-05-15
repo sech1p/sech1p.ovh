@@ -19,7 +19,7 @@
                         <li>
                             E-mail - <code>sech1p at icloud dot com</code>
                             <a href="/public.asc">
-                                <i class="heroicons-key"></i>
+                                <i class="heroicon-key"></i>
                             </a>
                         </li>
                     </ul>
