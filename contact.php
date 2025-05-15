@@ -12,7 +12,6 @@
                     <h1>Contact & Social Medias</h1>
 					<h2>Contact</h2>
                     <ul>
-                        <li>Discord - sech1p#0000</li>
                         <li>Telegram - <a href="https://t.me/sech1p">sech1p</a></li>
                         <li>Matrix - <code>@sech1p@mozilla.org</code></li>
                         <li>Jabber/XMPP - <code>sech1p&commat;disroot.org</li>
