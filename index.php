@@ -8,6 +8,7 @@
 	    <div id="main">
 		    <?php include "templates/header.php"; ?>
 		    <div id="subject">
+				<h1>Notice: This site will be updated, including: themes, switching to Javascript (probably Bun).</h1>
 		        <article class="content">
                     <h1>Hello, world!</h1>
 					<p>My name is Eliza, I'm 20 years old trans woman from Poland. I love girls.</p>
@@ -17,7 +18,7 @@
 					<br>
 					<p>You can also find my blogs on menu above. Enjoy and have fun ^^</p>
 					<br>
-					<p><i>Last update: 2025-04-23 21:38 (GMT+2)</i></p>
+					<p><i>Last update: 2025-07-10 18:41 (CEST)</i></p>
     		    </article>
 	    	</div>
 		    <?php include "templates/footer.php"; ?>

@@ -222,3 +222,8 @@ code {
 	word-wrap: break-word;
 	border-radius: 25ox;
 }
+
+#notice {
+	text-align: center;
+	font-width: bold;
+}
