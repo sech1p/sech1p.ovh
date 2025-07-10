@@ -13,7 +13,7 @@
 					<h2>Contact</h2>
                     <ul>
                         <li>IRC - <code>sech1p</code> on <code>irc.libera.chat</code></li>
-                        <li>Telegram - <a href="https://t.me/sech1p">sech1p</a></li>
+                        <li>Telegram - <a href="https://t.me/el1eeeeee">el1eeeeee</a></li>
                         <li>Matrix - <code>@sech1p@mozilla.org</code></li>
                         <li>Jabber/XMPP - <code>sech1p&commat;disroot.org</code></li>
                         <li>
