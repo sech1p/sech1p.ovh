@@ -2,7 +2,7 @@
 <nav id="links">
 	<ul>
 		<li><a href="index.php">Home</a></li>
-		<li><a href="#">Blog (coming soon!)</a></li>
+		<li><a href="https://blog.lambd4.me">Blog</a></li>
 		<li><a href="about.php">About me</a></li>
 		<li><a href="machines.php">Machines</a></li>
 		<li><a href="contact.php">Contact & Social Medias</a></li>
