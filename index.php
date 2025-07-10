@@ -8,7 +8,7 @@
 	    <div id="main">
 		    <?php include "templates/header.php"; ?>
 		    <div id="subject">
-				<h1 id="notice">Notice: This site will be updated, including: themes, switching to Javascript (probably Bun).</h1>
+				<h1 id="notice">Notice: This site will be updated, including: themes, switching to Javascript (probably Bun) and mobile responsive.</h1>
 		        <article class="content">
                     <h1>Hello, world!</h1>
 					<p>My name is Eliza, I'm 20 years old trans woman from Poland. I love girls.</p>
