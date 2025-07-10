@@ -227,3 +227,9 @@ code {
 	text-align: center;
 	font-width: bold;
 }
+
+#trixie {
+	background: -webkit-linear-gradient(rgba(128, 0, 128, 1), rgba(127, 0, 255, 1));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
